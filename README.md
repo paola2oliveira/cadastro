@@ -1,2 +1,0 @@
-# cadastro
-Página de cadastro 
